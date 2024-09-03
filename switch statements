@@ -1,0 +1,11 @@
+let dayon = "monday";
+switch (dayon) {
+   case "tuesday":
+     console.log("go working.");
+     break;
+   case "monday":
+     console.log("read a story.");
+     break;
+   default:
+    console.log("tired and lazy.");
+} 
